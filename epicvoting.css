@@ -1,0 +1,192 @@
+
+#ep-contents.promoview_page .stage_section_header {
+    display: none;
+}
+
+#ep-contents.promoview_page  .footer_flexwrap {
+    position: fixed;
+    bottom: 0;
+    z-index: 5;
+}
+
+.gui_multiparticipation_landing .click_area {
+    max-height: 100px;
+}
+
+.gui_form_register .react_field label {
+    font-size: 16px;
+}
+#success_contents .epBox.epModule  {
+    max-width: 1200px;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+}
+#ep_main_container .template_display {
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#ep_main_container .ep-search::before, .react_field .search .this_input::after {
+    position: absolute;
+    right: 0;
+    top: 6px;
+}
+
+
+#ep-contents.promoview_page ._awt90:not(.gui_contextual_box) {
+    background:rgba(var(--forced-bg-color), 0) !important;
+}
+#ep-contents.promoview_page  .gui_main_text_color_on_bg.is_open {
+    max-width: 300px;
+}
+
+#ep-global-contents.force_wg40 .main_flex_wrapper:not(.is_game) .gui_multi_gallery {
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#ep-global-contents.force_wg40 .main_flex_wrapper:not(.is_game) .gui_multi_gallery .gui_not_in_top_big .hb_secondaryFont:first-child {
+width: 25%;
+}
+
+
+.gui_ranking table tr th{
+border-bottom: none;
+margin-bottom: 10px;
+font-size: 12px;
+}
+
+#multi_gallery .mod_align_param img {
+max-width: 400px !important;
+}
+
+.gui_multi_ranking .gui_multimedia_gallery .single_entry_in_gallery .entry_gallery>img {
+width: 250px;
+height: 150px;
+}
+#multi_gallery  .gui_video_player div {
+min-height: -webkit-fill-available !important;
+}
+
+.single_entry_in_gallery.in_layer_mode .gui_single_entry_contents .main_c {
+width: 70% !important;
+max-height: 600px !important;
+}
+
+
+
+
+#ep-contents.promoview_page .stage_section_header {
+    display: none;
+}
+
+#multi_gallery  .gui_video_player div {
+min-height: -webkit-fill-available !important;
+}
+
+
+.single_entry_in_gallery.in_layer_mode.with_votes .gui_single_entry_contents .main_c {
+width: 70%;
+min-height: 550px;
+}
+
+#ep-global-contents.force_wg40 .main_flex_wrapper:not(.is_game) {
+width: 70%!important;
+
+}
+
+
+
+.gui_form_register .react_field label {
+    font-size: 16px;
+}
+
+#success_contents .epBox.epModule  {
+max-width: 1200px;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+#ep_main_container .ep-search::before, .react_field .search .this_input::after {
+    position: absolute;
+    right: 0;
+    top: 6px;
+}
+
+#ep-contents.promoview_page ._awt90:not(.gui_contextual_box) {
+    background:rgba(var(--forced-bg-color), 0) !important;
+}
+#ep-contents.promoview_page  .gui_main_text_color_on_bg.is_open {
+    max-width: 300px;
+}
+
+#ep-global-contents.force_wg40 .main_flex_wrapper:not(.is_game) .gui_multi_gallery {
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+#ep-global-contents.force_wg40 .main_flex_wrapper:not(.is_game) .gui_multi_gallery .gui_not_in_top_big .hb_secondaryFont:first-child {
+width: 25%;
+}
+
+
+.gui_ranking table tr th{
+border-bottom: none;
+margin-bottom: 10px;
+font-size: 12px;
+}
+
+#multi_gallery .mod_align_param img {
+max-width: 400px !important;
+}
+
+
+#multi_gallery  .gui_video_player div {
+min-height: -webkit-fill-available !important;
+}
+
+.single_entry_in_gallery.in_layer_mode .gui_single_entry_contents .main_c {
+width: 70% !important;
+max-height: 600px !important;
+}
+
+
+._align_text_cc .mod_align_param img {
+    max-width: 400px !important;
+}
+
+#success_contents .mod_align_param div {
+    font-size: 24px;
+      font-weight: 800!important;
+}
+
+.solid_buttons  .flex_button  {
+    border-radius: unset;
+}
+
+
+.single_entry_in_gallery.in_layer_mode.with_votes .gui_single_entry_contents:not(.is_listed) .main_c {
+    width: 70%;
+    min-height: 550px;
+}
+
+.entry_gallery .gui_video_player div {
+    min-height: -webkit-fill-available !important;
+}
+
+.single_entry_in_gallery.in_layer_mode .gui_single_entry_contents:not(.is_listed) .close_mark.on_big:before {
+    right: 0.2em !important;
+    top: 5px !important;
+
+}
+
+.single_entry_in_gallery.in_layer_mode .gui_single_entry_contents:not(.is_listed) .gui_entry_info {
+    padding: 40px 40px;
+}
